@@ -1,0 +1,14 @@
+
+### Xcode ###
+## User settings
+xcuserdata/
+.DS_Store
+DerivedData
+xcuserdata
+*.pbxuser
+*.xcworkspace
+
+
+### Pods ###
+Pods/
+Podfile.lock
