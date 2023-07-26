@@ -19,7 +19,9 @@ target 'amazing_world' do
   pod 'OOTransformer', :path => '/Users/fengtianyu/Projects/Personal/pod_modules/OOTransformer'
   
   pod 'OOKit', :path => '/Users/fengtianyu/Projects/Personal/pod_modules/OOKit'
+  
   pod 'OODevice', :path => '/Users/fengtianyu/Projects/Personal/pod_modules/OODevice'
+  pod 'OOFoundation', :path => '/Users/fengtianyu/Projects/Personal/pod_modules/OOFoundation'
   
   third_module
 

@@ -437,6 +437,7 @@
 				DEVELOPMENT_TEAM = MQDDSCZ6V8;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "amazing_world/Resource//info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "$(APP_NAME)";
 				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "获取当前位置";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "要使用位置";
@@ -469,6 +470,7 @@
 				DEVELOPMENT_TEAM = MQDDSCZ6V8;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "amazing_world/Resource//info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "$(APP_NAME)";
 				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "获取当前位置";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "要使用位置";
